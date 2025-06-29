@@ -1,0 +1,25 @@
+{
+  "name": "expert-spoon",
+  "version": "1.0.0",
+  "description": "Text-based RPG meets AI. Unique experiences in a world of mass production.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nayelnoorani/expert-spoon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nayelnoorani/expert-spoon/issues"
+  },
+  "homepage": "https://github.com/nayelnoorani/expert-spoon#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
