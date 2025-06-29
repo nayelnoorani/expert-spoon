@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/nayelnoorani/expert-spoon#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^4.21.2"
   }
 }
